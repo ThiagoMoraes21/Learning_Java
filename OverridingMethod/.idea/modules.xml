@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OverloadingMethods.iml" filepath="$PROJECT_DIR$/OverloadingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverridingMethod.iml" filepath="$PROJECT_DIR$/OverridingMethod.iml" />
     </modules>
   </component>
 </project>
